@@ -34,5 +34,3 @@ This repository contains various resources used for the article "Designing new m
 You can contact the author here if needed : nicolas.tilkens@junia.com
 
 The video recordings of the animals will be put on a open access repository, the link will be updated in this description.
-
-You can contact the author here if needed : nicolas.tilkens@junia.com
